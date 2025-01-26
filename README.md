@@ -9,3 +9,5 @@ npm run dev
 ```
 
 you can do it with pnpm or yarn too!
+
+[smart contract](https://sepolia.etherscan.io/address/0x1be344ca153135795190bd893e583d04ba3b4245#code)
